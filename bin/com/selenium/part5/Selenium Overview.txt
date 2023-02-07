@@ -1,0 +1,19 @@
+
+************************************* TestNG ************************************* 
+1. What is TestNG?
+2. Install TestNG in Eclipse
+3. TestNG Test Case
+4. TestNG Test Suite
+5. TestNG Annotations
+6. TestNG Groups
+7. TestNG DependsOn
+8. TestNG Prioritizing & Skipping a Test Case
+9. TestNG Reporters & Asserts
+10.TestNg Parameters & Data Provider
+11.Multi Broswer, Cross Browser & Parallel Testing using TestNG
+12.TestNG Listeners
+13.Implement IRetrynalyzer to Retry Failed Test
+
+
+
+

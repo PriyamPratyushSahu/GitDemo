@@ -1,0 +1,27 @@
+
+
+************************************* Performing Events on WebElements ************************************* 
+1. Entering Values in Input Boxes
+2. Deleting Values in Input Boxes
+3. Clicking on Submit Buttons
+4. Selecting Check Box
+5. Selecting Value from Drop Down
+6. Selecting Value from combo box
+7. Selecting Radio Button
+8. Tooltip Verification
+9. Handling Web Tables
+10. Handilng Frames
+11. Handling Multiple Windows
+12 Handling Alerts & Popup Windows
+13. Mouse Click & Keyboard Events
+14. Double Click
+15. Right Click
+16. Drag & Drop
+17. Robot Class
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+
+
+************************************* Performing Events on WebElements ************************************* 
+1. File Upload
+2. Synchronization
+3. Headless Browser Testing
+4. Screenshot Capture
+5. JavaScriptExecutor
+6. Stale Element Reference Exception
+7. Desired Capabilities
